@@ -15,9 +15,6 @@
 
 <body>
 
-<h1 id="project-1-capstone-proposals">Project 1: Capstone Proposals</h1>
-<p>Clinton Bradfield<br />
-20181204</p>
 <h1 id="project-1-capstone-proposals-n5">Project 1: Capstone Proposals (n=5)</h1>
 <h2 id="financial-analysis-of-competitive-space-in-markets">Financial Analysis of Competitive Space in Markets</h2>
 <ul>
@@ -57,5 +54,7 @@
 <li>Assess content of images</li>
 </ul>
 
+<p>Clinton Bradfield<br />
+20181204</p>
 </body>
 </html>
